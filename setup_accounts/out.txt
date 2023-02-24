@@ -1,0 +1,26 @@
+
+Sumabalas-MacBook-Pro-4:Suma_CHHD_Feb24_2023 suma$ node setup_accounts/createAccounts.js 
+Account1:
+  Account ID: 0.0.3566176
+  Private key: 302e020100300506032b657004220420617276d0b11a47fc5c5c39e3ff577845348c39b9325c0aba162ad1c114a7419b
+Account2:
+  Account ID: 0.0.3566178
+  Private key: 302e020100300506032b65700422042073db8a68adb6465b402ce1860f6cfcaf1e1722fc6e649794e98f469469994eb6
+Account3:
+  Account ID: 0.0.3566180
+  Private key: 302e020100300506032b657004220420e826276db7c15f21e020014bd4648bcfb6d69f22c4eb87376222447c967b4b2d
+Account4:
+  Account ID: 0.0.3566182
+  Private key: 302e020100300506032b657004220420bff2d772c52dc92d56aedbcba729752366fa9e2436272d41792f6d89745e93fa
+Account5:
+  Account ID: 0.0.3566188
+  Private key: 302e020100300506032b6570042204203c742234506573afce39e5b6a10f9a56088d17f86079f0e44afff02f1a5a8b9b
+Hbar transfer complete. : SUCCESS
+The cost of the query is: 0 tℏ
+The account balance is: 100000000000 tinybar.
+{$accounts[0].accountId} has been funded with 100000000000
+Hbar transfer complete. : SUCCESS
+The cost of the query is: 0 tℏ
+The account balance is: 100000000000 tinybar.
+{$accounts[0].accountId} has been funded with 100000000000
+Sumabalas-MacBook-Pro-4:Suma_CHHD_Feb24_2023 suma$ 

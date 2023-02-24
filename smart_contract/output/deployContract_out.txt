@@ -1,0 +1,3 @@
+Sumabalas-MacBook-Pro-4:Suma_CHHD_Feb24_2023 suma$ node smart_contract/deployContract.js 
+The smart contract byte code file ID is 0.0.3566886
+The smart contract ID is 0.0.3566889

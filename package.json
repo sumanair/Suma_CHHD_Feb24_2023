@@ -1,0 +1,18 @@
+{
+  "name": "suma_chhd_feb24_2023",
+  "version": "1.0.0",
+  "description": "Code used for CHHD Exam, Feb 24, 2023",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.20.0",
+    "abi-decoder": "^2.4.0",
+    "dotenv": "^16.0.3",
+    "web3": "^1.8.2"
+  }
+}
